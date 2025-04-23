@@ -1,2 +1,2 @@
-# Web-designs-I-was-doin-in-15
-I'm just starting out.
+# This is some things I was doing when I was 15
+Its literally just a bunch of html codes for my ICT projects lol.
